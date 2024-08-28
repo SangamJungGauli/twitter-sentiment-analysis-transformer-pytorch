@@ -1,1 +1,3 @@
-# twitter-sentiment-analysis-transformer-pytorch
+# **Twitter Sentiment Analysis With Transformer In Pytorch**
+
+This notebook implement the sentiment analysis in **Twitter Sentiment Analysis** from **kaggle**. In this notebook I've tried to implement transformer for sentiment analysis. Recently I've switched to Pytorch from Tensorflow and also have been reading"**Attention Is All You Need**" paper aka **Tranformer by Google in 2017**. Later on, **Andrej Karpathy** had explained this paper on simple understandable chuncks. I've created a custom Dataset and Dataloader from the dataset. There are multiple hyperparameters you can tweek as per need. 
